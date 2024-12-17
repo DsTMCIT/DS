@@ -8,3 +8,4 @@
 このGITでは本書内で扱うExcelのWorksheetやCSV、Pythonのプログラミング例を公開しています。各種バージョンは以下の通りです。
 Excel：2022以降
 Python：3.10以降（Google Colabratoryに依存）
+
