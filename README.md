@@ -6,6 +6,5 @@
 かしながら学んでいく内容に務めました。まだ至らない点があるかもしれませんが、御意見は出版社に御連絡頂ければ幸いです。
 
 このGITでは本書内で扱うExcelのWorksheetやCSV、Pythonのプログラミング例を公開しています。各種バージョンは以下の通りです。
-Excel：2022以降
-Python：3.10以降（Google Colabratoryに依存）
+Excel：2022以降、Python：3.10以降（Google Colabratoryに依存）
 
