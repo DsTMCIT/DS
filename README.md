@@ -1,5 +1,5 @@
 # データサイエンス実践テキスト
-![Test Image 1](/textbook.png)
+![Test Image 1](/textbook.jpg)
 ### 森北出版(株)
 ###山本昇志、下川原英理、斎藤純一、真志取秀人　共著
 
