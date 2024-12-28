@@ -9,3 +9,11 @@
 このGITでは本書内で扱うExcelのWorksheetやCSV、Pythonのプログラミング例を公開しています。各種バージョンは以下の通りです。
 Excel：2022以降、Python：3.10以降（Google Colabratoryに依存）
 
+### <Excelフォルダ>
+baseball.csv  :オリジナルのデータをcsv形式で提供
+baseball_r.csv:前処理済みのデータをcsv形式で提供
+baseball.xlsx :オリジナルのデータをExcel形式で提供
+baseball_6-6章用.xlsx:6-6章の処理から始めたい人用のワークシート
+baseball_練習6-3用.xlsx:練習問題6-3章の処理ワークシート
+
+### <Pythonフォルダ>
