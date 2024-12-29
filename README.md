@@ -29,7 +29,7 @@ test007.py　9.2章記載のプログラム例
 test008.py　9.2章記載のプログラム例  
 
 ### <正誤表>
-Pythonプログラムに以下の間違えがありました．お詫び申し上げます。  
+本文中のPythonプログラムに以下の間違えがありました．お詫び申し上げます。  
 (1)p.108 test003.ipynb>>line12>>行尾の';'は不要です  
 (2)p.122 test007.ipynb>>line5>>最後のcsvファイルを'baseball_r.csv'に変更ください  
 (3)p.124 test008.ipynb>>line5>>最後のcsvファイルを'baseball_r.csv'に変更ください  
