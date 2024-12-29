@@ -17,18 +17,18 @@ baseball_6-6章用.xlsx : 6-6章の処理から始めたい人用のワークシ
 baseball_練習6-3用.xlsx : 練習問題6-3章の処理ワークシート  
 
 ### <Pythonフォルダ>
-.pyファイルで提供しますが，テキストとして開いてColabratoryにコピー＆貼付け下さい
-test001.py　8.2章記載のプログラム例
-test002.py　8.3章記載のプログラム例
-test003.py　8.3章記載のプログラム例
-test004.py　9.1章記載のプログラム例
-test005.py　9.1章記載のプログラム例
-test006.py　9.2章記載のプログラム例
-test007.py　9.2章記載のプログラム例
-test008.py　9.2章記載のプログラム例
+.pyファイルで提供しますが，テキストとして開いてColabratoryにコピー＆貼付け下さい  
+test001.py　8.2章記載のプログラム例  
+test002.py　8.3章記載のプログラム例  
+test003.py　8.3章記載のプログラム例  
+test004.py　9.1章記載のプログラム例  
+test005.py　9.1章記載のプログラム例  
+test006.py　9.2章記載のプログラム例  
+test007.py　9.2章記載のプログラム例  
+test008.py　9.2章記載のプログラム例  
 
 ### <正誤表>
-Pythonプログラムに以下の訂正がありました．お詫び申し上げます．
-(1)p.108 test003.ipynb>>line12>>行尾の';'は不要です
-(2)p.122 test007.ipynb>>line5>>最後のcsvファイルを'baseball_r.csv'に変更ください
-(3)p.124 test008.ipynb>>line5>>最後のcsvファイルを'baseball_r.csv'に変更ください
+Pythonプログラムに以下の訂正がありました．お詫び申し上げます．  
+(1)p.108 test003.ipynb>>line12>>行尾の';'は不要です  
+(2)p.122 test007.ipynb>>line5>>最後のcsvファイルを'baseball_r.csv'に変更ください  
+(3)p.124 test008.ipynb>>line5>>最後のcsvファイルを'baseball_r.csv'に変更ください  
