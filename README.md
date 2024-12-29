@@ -13,7 +13,7 @@ Excel：2022以降、Python：3.10以降（Google Colabratoryに依存）
 baseball.csv : オリジナルのデータをcsv形式で提供  
 baseball_r.csv : 前処理済みのデータをcsv形式で提供  
 baseball.xlsx : オリジナルのデータをExcel形式で提供  
-baseball_6-6章用.xlsx : 6-6章の処理から始めたい人用のワークシート  
+baseball_6-6章用.xlsx : 6-6章の処理から始めたい方向けのワークシート  
 baseball_練習6-3用.xlsx : 練習問題6-3章の処理ワークシート  
 
 ### <Pythonフォルダ>
