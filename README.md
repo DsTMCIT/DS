@@ -34,3 +34,4 @@ test008.py　9.2章記載のプログラム例
 (2)p.120 test006.ipynb>>line5>>最後のcsvファイルを'baseball_r.csv'に変更ください  
 (3)p.122 test007.ipynb>>line5>>最後のcsvファイルを'baseball_r.csv'に変更ください  
 (4)p.124 test008.ipynb>>line5>>最後のcsvファイルを'baseball_r.csv'に変更ください  
+(5)p.138 練習問題4-2 (2)の解答例は，「総射数から得点が5点の累積度数を引けばよい。よって選手Aは10－3＝7」が正しいです．
